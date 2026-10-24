@@ -200,11 +200,14 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "b9a0201330748abf",
+  "active": "f5172fb3093f7095",
   "lastOpenFiles": [
-    "copilot/copilot-conversations/agent__Сделай_статью_очень_краткой,_только_осно@20261024_184607.md",
-    "Hello world.md",
+    "Команды Linux.md",
     "Изучение виртуализации.md",
+    "Hello world.md",
+    "Hi.md",
+    "README.md",
+    "copilot/copilot-conversations/agent__Сделай_статью_очень_краткой,_только_осно@20261024_184607.md",
     "copilot/copilot-conversations/agent__Мне_нужно,_чтобы_ты_написал_материалы,_ко@20261024_182336.md",
     "copilot/copilot-conversations",
     "copilot/skills/json-canvas/SKILL.md",
@@ -227,8 +230,6 @@
     "copilot/skills/obsidian-markdown",
     "copilot/skills/copilot-fetch-x/SKILL.md",
     "copilot/skills/copilot-youtube-transcript/SKILL.md",
-    "Hi.md",
-    "README.md",
     "knowledge/README.md",
     "knowledge/Hello world.md"
   ]

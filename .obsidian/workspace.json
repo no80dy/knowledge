@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы на тему виртуализация.md",
-                "mode": "source",
+                "file": "Виртуализация в Linux.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вопросы на тему виртуализация"
+              "title": "Виртуализация в Linux"
             }
           }
         ]
@@ -202,9 +202,13 @@
   },
   "active": "f5172fb3093f7095",
   "lastOpenFiles": [
+    "Вопросы на тему виртуализация.md",
+    "Виртуализация в Linux.md",
+    "Pasted image 20261025133145.png",
+    "Pasted image 20261025132245.png",
+    "Pasted image 20261025133123.png",
     "Pasted image 20261024231145.png",
     "virtualization.jpeg.jpeg",
-    "Вопросы на тему виртуализация.md",
     "Pasted image 20261024225527.png",
     "Команды Linux.md",
     "Виртуализация.md",
